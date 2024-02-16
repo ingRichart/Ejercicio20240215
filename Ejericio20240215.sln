@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InstrumentoMusical", "InstrumentoMusical\InstrumentoMusical.csproj", "{DD2605EC-0B96-44AA-A099-654341BB9763}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inventarios", "Inventarios\Inventarios.csproj", "{69C2A888-2A50-49A5-8C90-BD0695CE107E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD2605EC-0B96-44AA-A099-654341BB9763}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD2605EC-0B96-44AA-A099-654341BB9763}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD2605EC-0B96-44AA-A099-654341BB9763}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD2605EC-0B96-44AA-A099-654341BB9763}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69C2A888-2A50-49A5-8C90-BD0695CE107E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69C2A888-2A50-49A5-8C90-BD0695CE107E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69C2A888-2A50-49A5-8C90-BD0695CE107E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69C2A888-2A50-49A5-8C90-BD0695CE107E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
